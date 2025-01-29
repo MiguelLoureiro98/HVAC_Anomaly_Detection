@@ -11,4 +11,4 @@ The datasets used in this work are publicly available and can be retrieved from 
 
 # Licence
 
-This project is licenced under the [MIT Licence](LICENSE).
+This project is licensed under the [MIT Licence](LICENSE).
